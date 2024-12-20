@@ -1,7 +1,7 @@
 #include <Novice.h>
 #include "GameManeger.h"
 
-const char kWindowTitle[] = "LE2C_18_ナガイ_コハク";
+const char kWindowTitle[] = "LE2C_18_ナガイ_コハク_PG3_04_01_ステートパターンとシーン遷移";
 
 // Windowsアプリでのmain関数
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
