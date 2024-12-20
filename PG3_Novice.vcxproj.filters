@@ -20,39 +20,6 @@
     <ClCompile Include="C:\KamataEngine\Adapter\Novice.cpp">
       <Filter>KamataEngine\Adapter</Filter>
     </ClCompile>
-    <ClCompile Include="Bullet.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="BulletManager.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="ClearScene.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="Enemy.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="EnemyManager.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="GameManeger.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="IScene.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="Player.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="StageScene.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="TitleScene.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
-    <ClCompile Include="Vector2.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\KamataEngine\DirectXGame\audio\Audio.h">
@@ -136,19 +103,5 @@
     <ClInclude Include="C:\KamataEngine\DirectXGame\2d\ImGuiManager.h">
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
-    <ClInclude Include="Bullet.h" />
-    <ClInclude Include="BulletManager.h" />
-    <ClInclude Include="ClearScene.h" />
-    <ClInclude Include="Enemy.h" />
-    <ClInclude Include="EnemyManager.h" />
-    <ClInclude Include="GameManeger.h" />
-    <ClInclude Include="IScene.h" />
-    <ClInclude Include="Player.h" />
-    <ClInclude Include="StageScene.h" />
-    <ClInclude Include="TitleScene.h" />
-    <ClInclude Include="Vector2.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include=".editorconfig" />
   </ItemGroup>
 </Project>
